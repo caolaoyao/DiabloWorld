@@ -1,0 +1,27 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity\DiabloWorld_01\login_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\DiabloWorld_01\login_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\DiabloWorld_01\login_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\DiabloWorld_01\login_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\unity\DiabloWorld_01\login_Data\Managed\System.dll (this message is harmless)
+可登录:aaa
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.585201 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 1.230693 ms (FindLiveObjects: 0.025599 ms CreateObjectMapping: 0.014399 ms MarkObjects: 0.576307 ms  DeleteObjects: 0.020479 ms)
+
